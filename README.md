@@ -254,5 +254,3 @@ Feedback
 Feedback and pull requests welcome! After starting a PR, remember to sign the CLA.
 
 We would love to hear more about your use cases of NvPipe!
-If you have any questions, feature requests, issues, or ideas for improvement, please feel free to reach out at [tbiedert@nvidia.com](mailto:tbiedert@nvidia.com).
-The more I know about your use cases of NvPipe, the better I can justify spending time on your project!
